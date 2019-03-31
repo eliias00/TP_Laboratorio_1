@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1536185517 source:c:\users\alumno\desktop\calcu 1\calcu.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1536185517 c:\users\alumno\desktop\calcu 1\calcu.h
+
+1536188601 source:c:\users\alumno\desktop\calcu 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1553786593 source:c:\users\e723c0d\desktop\tp_laboratorio_1-master\tp calculadora 1\calcu.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1553786456 c:\users\e723c0d\desktop\tp_laboratorio_1-master\tp calculadora 1\calcu.h
+
+1553785991 source:c:\users\e723c0d\desktop\tp_laboratorio_1-master\tp calculadora 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1553808807 source:c:\users\elias\onedrive\escritorio\tps-master\tp_laboratorio_1-master\tp calculadora 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1554069309 c:\users\elias\onedrive\escritorio\tps-master\tp_laboratorio_1-master\tp calculadora 1\calcu.h
+
+1554068726 source:c:\users\elias\onedrive\escritorio\tps-master\tp_laboratorio_1-master\tp calculadora 1\calcu.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1554069344 source:c:\users\elias\onedrive\escritorio\tp calculadora 1\calcu.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1554070536 c:\users\elias\onedrive\escritorio\tp calculadora 1\calcu.h
+
+1554070294 source:c:\users\elias\onedrive\escritorio\tp calculadora 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
